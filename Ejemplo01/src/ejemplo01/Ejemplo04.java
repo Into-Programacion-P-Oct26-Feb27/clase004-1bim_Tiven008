@@ -20,4 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
-// Sistetem.out.print sirve para escribe en una solo linea horizontal.
+    // Sistetem.out.print sirve para escribe en una solo linea horizontal.
