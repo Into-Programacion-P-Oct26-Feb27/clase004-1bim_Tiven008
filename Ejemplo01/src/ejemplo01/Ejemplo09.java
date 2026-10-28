@@ -14,6 +14,6 @@ public class Ejemplo09 {
        String autor = "L. Ramirez";
        int anio = 2022;
        boolean disponible = true;
-       System.out.printf("titulo", titulo, autor, anio, disponible);
+       System.out.printf("Titulo: %s\nAutor: %s\nAño %s\nDisponible: %s\n", titulo, autor, anio, disponible);
     }
 }
