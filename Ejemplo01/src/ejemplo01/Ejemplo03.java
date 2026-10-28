@@ -13,11 +13,13 @@ public class Ejemplo03 {
 
     public static void main(String[] args) {
         // Ejemplo 
-        String nombreEstudiante = "René Rolando";
-        String apellidoEstudiante = "Elizalde Solano";
-        int nacimiento = 1983;
+        String nombreEstudiante = "Luis Steeven";
+        String apellidoEstudiante = "Briceno Castillo";
+        String micadena = "\n\n";
+        String micadena2 = "\n";
+        int nacimiento = 2007;
 
-        System.out.println(nombreEstudiante + " " + apellidoEstudiante + " " + 
+        System.out.println(nombreEstudiante +micadena+ apellidoEstudiante + " " +micadena2+ 
                 nacimiento);
     }
 }
